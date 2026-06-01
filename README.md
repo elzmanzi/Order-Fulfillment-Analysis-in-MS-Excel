@@ -29,9 +29,9 @@ This project analyzes four weeks of distribution center order and shipment data 
 - Revenue Gap
 
 ## Dashboard
-![Dashboard](KPI_cards.png)
-![Dashboard](top_10_orders_by_location.png)
-![Dashboard](top_10_products.png)
+![Dashboard](KPI_cards.jpg)
+![Dashboard](top_10_orders_by_location.jpg)
+![Dashboard](top_10_products.jpg)
 
 ## Key Findings
 
